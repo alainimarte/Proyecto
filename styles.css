@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin-top: 200px;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: black;
+    border: none;
+    cursor: pointer;
+  }
+  
+  p {
+    margin-top: 20px;
+    font-weight: bold;
+  }
