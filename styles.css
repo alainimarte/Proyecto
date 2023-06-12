@@ -1,6 +1,8 @@
 .container {
     text-align: center;
     margin-top: 200px;
+    flex: 1
+    padding: 25px;
   }
   
   h1 {
@@ -24,3 +26,6 @@
     margin-top: 20px;
     font-weight: bold;
   }
+.home {
+    display: flex
+}
